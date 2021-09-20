@@ -21,8 +21,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Archiving project
-        run: xcodebuild -workspace ios/Runner.xcworkspace \
+        run: xcodebuild -sdk iphoneos -workspace ios/Runner.xcworkspace \
+            -configuration Debug \
             -scheme development \
-            -sdk iphonesimulator \
             -derivedDataPath DerivedData \
             -archivePath DerivedData/Archive/Runner archive
