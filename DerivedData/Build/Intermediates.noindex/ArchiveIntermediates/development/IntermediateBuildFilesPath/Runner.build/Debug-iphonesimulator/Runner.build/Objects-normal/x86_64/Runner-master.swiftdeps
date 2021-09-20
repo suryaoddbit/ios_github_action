@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
-options: "bac7bed329d25edd41887db1610fe363"
-build_time: [1632115274, 317964000]
-inputs:
-  "/Users/suryaadi/Workspace/TEST/ios_github_action/ios/Runner/AppDelegate.swift": [1611603814, 0]
