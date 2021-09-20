@@ -20,5 +20,7 @@ jobs:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Flutter clean
+        run: flutter clean
       - name: Archiving project
         run: xcodebuild -sdk iphonesimulator -workspace ios/Runner.xcworkspace -configuration Debug -scheme development -derivedDataPath DerivedData -archivePath DerivedData/Archive/Runner archive
