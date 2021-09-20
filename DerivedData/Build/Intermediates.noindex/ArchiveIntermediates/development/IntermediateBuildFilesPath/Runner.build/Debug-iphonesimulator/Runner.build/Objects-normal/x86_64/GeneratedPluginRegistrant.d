@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/suryaadi/Workspace/TEST/ios_github_action/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/development/BuildProductsPath/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h
